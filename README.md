@@ -5,7 +5,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://media.tenor.com/MA3dDJl_9VYAAAAj/the-sims-plumbob.gif"  />
+<img data-importer="image" align="center" height="200" src="https://media.tenor.com/MA3dDJl_9VYAAAAj/the-sims-plumbob.gif"  />
 
 ###
 
